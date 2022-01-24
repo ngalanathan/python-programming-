@@ -1,0 +1,10 @@
+#type conversion
+age=input("Enter your age: ")
+a=int(age)+10
+print(a)
+
+a=5677.6868
+print(int(a))
+
+c=45
+print(float(c))
